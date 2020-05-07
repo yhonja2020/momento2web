@@ -1,0 +1,35 @@
+.container {
+    background-color:white;
+}  
+
+ body {
+    background-color: rgb(208, 222, 233);
+    background-image: url("img/1.jpg"); 
+   
+  } 
+
+  button.centrado {
+    width: 110px; 
+    margin-left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .shad {
+      box-shadow: 10px 10px 10px black;
+  }
+
+  .bg-pastel{
+      background-color: #F0B27A;
+  }
+
+  .card {
+    position: relative;
+    background-color: #f4f4f4;
+    margin: 10px auto;
+    height: 100%;
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.7);
+  }
+  
+  .card {
+    height: 100%;
+  }
